@@ -30,11 +30,11 @@ That's all! Now you are Pump Up 😏
 
 ## Supported networks
 
-[X] Ethereum
-[X] Binance Smart Chain
-[X] Polygon
-[] Arbitrum
-[] Famtom
+- [X] Ethereum
+- [X] Binance Smart Chain
+- [X] Polygon
+- [] Arbitrum
+- [] Famtom
 
 ## Status
 
