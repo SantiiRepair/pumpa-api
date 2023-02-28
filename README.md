@@ -33,9 +33,9 @@ That's all! Now you are Pump Up 😏
 - [X] Ethereum
 - [X] Binance Smart Chain
 - [X] Polygon
-- [] Arbitrum
-- [] Famtom
+- [ ] Arbitrum
+- [ ] Famtom
 
 ## Status
 
-Working
+![Working](https://badgen.net/badge/Status/Working/red?icon=twitter)
