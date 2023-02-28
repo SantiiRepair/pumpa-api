@@ -38,4 +38,4 @@ That's all! Now you are Pump Up 😏
 
 ## Status
 
-![Working](https://badgen.net/badge/Status/Working/orange?icon=twitter)
+![Working](https://badgen.net/badge/Status/Working/orange?icon=github)
