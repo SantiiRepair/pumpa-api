@@ -20,7 +20,7 @@ Check your company's balance and transactions from the Pumpa user panel.
 
 - Create your account in Pumpa 
 
-- Connect your crypto wallet in the dashboard 
+- Connect your crypto wallet
 
 - Push an AppKey totally free
 
@@ -29,6 +29,12 @@ Check your company's balance and transactions from the Pumpa user panel.
 That's all! Now you are Pump Up 😏
 
 ## Supported networks
+
+[X] Ethereum
+[X] Binance Smart Chain
+[X] Polygon
+[] Arbitrum
+[] Famtom
 
 ## Status
 
